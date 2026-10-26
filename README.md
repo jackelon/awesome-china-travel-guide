@@ -72,6 +72,7 @@ Entry rules change. Confirm eligibility with the [National Immigration Administr
 
 - ⭐ [China Visa and Entry Guide for Foreign Tourists](https://china-revealed.com/articles/china-visa-entry-guide-for-foreigners/) - Visa-free travel, L visas and arrival cards.
 - ⭐ [China 240-Hour Visa-Free Transit](https://china-revealed.com/articles/china-240-hour-visa-free-transit/) - Eligibility, ports of entry and onward-ticket rules.
+- [China Travel Check — 240-Hour Visa-Free Transit](https://gochina.taoliapp.com/guides/240-hour-visa-free-transit/) - Independent English guide covering eligibility, ports, and practical transit steps.
 - [Hong Kong & Macau to Mainland China](https://china-revealed.com/articles/hong-kong-macau-to-mainland-china/) - Border crossings, trains and ferries.
 - [China Customs: What to Pack and Declare](https://china-revealed.com/articles/china-customs-medicines-luggage-power-banks/) - Medicines, cash limits and power bank rules.
 - [Extend Your China Stay](https://china-revealed.com/articles/china-visa-extension-residence-permit/) - Visa extensions and residence permits.
