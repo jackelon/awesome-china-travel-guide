@@ -50,6 +50,7 @@ Maintained by [China Revealed](https://china-revealed.com/), a free English trav
 - [Shopping](#shopping)
 - [Living in China](#living-in-china)
 - [Practical Tips](#practical-tips)
+- [Free Tools](#free-tools)
 - [Official Resources](#official-resources)
 - [Contributing](#contributing)
 
@@ -227,6 +228,10 @@ Keep your hotel address, insurance assistance details and consular contacts avai
 - [Toilets in China](https://china-revealed.com/articles/toilets-in-china-squat-paper-amap/) - Squat toilets, paper and finding one on Amap.
 - [Your First Day in China](https://china-revealed.com/articles/first-day-in-china/) - Airport transfers, check-in and useful addresses.
 - [Latest China travel news](https://china-revealed.com/articles/) - New guides and policy updates.
+
+## Free Tools
+
+- [China Travel Data](https://github.com/baisi661114-ship-it/china-travel-data) - Open reference tables: metro networks in 40+ cities with airport lines and fares, a printable toilet phrase card, a pre-trip checklist and VPN protocol notes.
 
 ## Official Resources
 
